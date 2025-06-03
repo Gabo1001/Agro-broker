@@ -9556,6 +9556,10 @@ Location:
 .mobile-header.mobile-haeder15 .mobile-nav-icon {
   color: var(--ztc-text-text-1);
 }
+.mobile-header.mobile-haeder15 img,.mobile-sidebar img{
+
+  width:20vw ;
+}
 
 .mobile-sidebar.mobile-sidebar15 {
   background: #1C64F2;
